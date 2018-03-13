@@ -1,0 +1,15 @@
+﻿Please complete all installations and follow the instructions:
+
+1) Download and install Java
+2) Download and install Maven
+3) Download and Install Intelij Idea Community Edition
+4) Download and install Git
+5) Clone Project from your Version Control System (VCS)
+6) Import Project to Intelij Idea
+7) All element’s objects are defined in Forms. (All controls can be find in folder: src/main/java/controls)
+8) All pages are defined in pagesAmazon folder
+9) Driver instance is defined here: src/main/java/driver/BaseDriver.java
+10) TestNG suit you will find here: src/main/test/resources
+11) HSBCTest.java you will find here: src/projectHSBC/test
+
+
